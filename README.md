@@ -1,2 +1,3 @@
 # Hello---SMU
-Just Another repositry
+Hi Friends!
+  Tanveer is here
